@@ -1,0 +1,8 @@
+<suite name="PapiSuiteTest">
+    <test name="PageTests">
+        <classes>
+            <class name="tests.HomePageTest"/>
+            <class name="tests.ResultsPageTest"/>
+        </classes>
+    </test>
+</suite>

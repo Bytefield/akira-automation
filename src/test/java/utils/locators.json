@@ -1,0 +1,28 @@
+{
+  "CookiesPopupPage": {
+    "window": {
+      "css": ".jw8mI",
+      "xpath": "//div[@class='jw8mI']"
+    },
+    "acceptAll": {
+      "css": "#L2AGLb",
+      "xpath": "//div[.='Aceptar todo']"
+    }
+  },
+  "HomePage": {
+    "inputText": {
+      "css": "#APjFqb",
+      "xpath": "//textarea[@id='APjFqb']"
+    },
+    "submitButton": {
+      "css": ".gNO89b",
+      "xpath": "//div[@class='lJ9FBc']//input[@name='btnK']"
+    }
+  },
+  "ResultsPage": {
+    "resultsContainer": {
+      "css": "#rso",
+      "xpath": "//*[@id=\"rso\"]"
+    }
+  }
+}
